@@ -17,6 +17,7 @@ Notes
 FMBingo works by generating HTML for a bingo card based on FileMaker data. The HTML is fully editable from the `setup` layout. Give it a try to change how the card looks!
 
 
-Props
------
-Props to the [Proof Group](http://proofgroup.com) for their radical and awesome `MergeExpressions` and `GetGUID` custom functions, which make life better for me every day.
+Credits
+-------
+- Props to the [Proof Group](http://proofgroup.com) for their radical and awesome `MergeExpressions` and `GetGUID` custom functions, which make life better for me every day.
+- Interface icons come from [The Noun Project](http://thenounproject.com)
