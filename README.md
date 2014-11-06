@@ -16,6 +16,8 @@ Notes
 -----
 FMBingo works by generating HTML for a bingo card based on FileMaker data. The HTML is fully editable from the `setup` layout. Give it a try to change how the card looks!
 
+![golden girls bingo](golden_girls_bingo.png)
+
 
 Credits
 -------
